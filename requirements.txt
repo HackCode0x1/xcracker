@@ -1,0 +1,5 @@
+termcolor
+colorama
+tqdm
+requests
+art
